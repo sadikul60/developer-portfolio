@@ -1,0 +1,36 @@
+body{
+    font-family: 'Audiowide', cursive;
+    margin: 0;
+}
+
+.top-bannar{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: orange;
+}
+
+#font-design{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 30px;
+}
+.half-width img{
+    width: 90%;
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, rgb(194, 62, 10));
+    padding: 10px 10px;
+}
