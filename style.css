@@ -17,6 +17,11 @@ h1{
 #font-design{
     font-family: 'Courier New', Courier, monospace;
 }
+p{
+    text-align: justify;
+    font-size: 20px;
+
+}
 
 section{
     display: flex;
@@ -35,6 +40,8 @@ section{
     background-image: linear-gradient(orange, rgb(194, 62, 10));
     padding: 10px 10px;
     border-radius: 6px;
+    font-size: 25;
+    font-weight: 800;
 }
 
 .big-dream{
