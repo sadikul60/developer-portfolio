@@ -1,40 +1,60 @@
+/*all body style*/
 body{
     font-family: 'Audiowide', cursive;
     margin: 0;
 }
 
+/*Top-banar Background*/
 .top-bannar{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+
+/*h1 tag font style*/
 h1{
     font-size: 50px;
 }
+
+/*h2 tag font style*/
+h2{
+    font-size: 40px;
+}
+
+/*span tag color style*/
 .orange-color{
     color: orange;
 }
 
+/*Font-design id tag font style*/
 #font-design{
     font-family: 'Courier New', Courier, monospace;
 }
+
+
+/*p tag font style*/
 p{
     text-align: justify;
     font-size: 20px;
-
 }
 
-section{
+/*flexible-container style*/
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
+
+/*half-width class style*/
 .half-width{
     width: 50%;
     padding: 30px;
 }
+
+/*half-width image style*/
 .half-width img{
     width: 90%;
 }
 
+/*link-button style*/
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(orange, rgb(194, 62, 10));
@@ -44,6 +64,7 @@ section{
     font-weight: 800;
 }
 
+/*big-dream class style*/
 .big-dream{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
