@@ -71,23 +71,31 @@ p{
     background-position: right;
 }
 
+/*box-shadoo-one style*/
 #box-shado-one{
     box-shadow: 10px 8px 8px 10px rgb(136, 134, 134);
     padding-bottom: 40px;
     margin: 40px;
     border-left: 7px solid orange;
 }
+
+
+/*box-shadoo-two style*/
 #box-shado-two{
     box-shadow: 10px 8px 8px 10px rgb(136, 134, 134);
     padding-bottom: 40px;
     margin: 40px;
     border-left: 7px solid blue;
 }
+
+/*experience-area background id tag style*/
 #background-img{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
+
+/*Footer-area style*/
 footer p{
     text-align: center;
 }
