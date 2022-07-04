@@ -17,7 +17,7 @@ h1{
 
 /*h2 tag font style*/
 h2{
-    font-size: 40px;
+    font-size: 35px;
 }
 
 /*span tag color style*/
@@ -69,4 +69,25 @@ p{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+#box-shado-one{
+    box-shadow: 10px 8px 8px 10px rgb(136, 134, 134);
+    padding-bottom: 40px;
+    margin: 40px;
+    border-left: 7px solid orange;
+}
+#box-shado-two{
+    box-shadow: 10px 8px 8px 10px rgb(136, 134, 134);
+    padding-bottom: 40px;
+    margin: 40px;
+    border-left: 7px solid blue;
+}
+#background-img{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+footer p{
+    text-align: center;
 }
